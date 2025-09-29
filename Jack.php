@@ -1,7 +1,7 @@
 <?php
 $servername = "school-project.cubcw8ayasbz.us-east-1.rds.amazonaws.com";
-$username   = "admin";
-$password   = "";
+$username = "admin";
+$password = "";
 $conn = new mysqli($servername, $username, $password);
 
 connect_database_registration($conn);
@@ -11,7 +11,8 @@ create_all_tables($conn);
 
 $conn->close();
 
-function create_table_user ($conn) {
+function create_table_user($conn)
+{
     $result = $conn->query("CREATE TABLE IF NOT EXISTS User(
     userID INT PRIMARY KEY, #WAS CHANGED FROM VARCHAR TABLE MUST BE DELEATED AND REMADE
     first_name varchar(255),
@@ -28,7 +29,8 @@ function create_table_user ($conn) {
 )");
 }
 
-function create_table_student_hold ($conn) { 
+function create_table_student_hold($conn)
+{
     $result = $conn->query("CREATE TABLE IF NOT EXISTS Student_Hold(
     studentID INT PRIMARY KEY,
     holdID INT PRIMARY KEY,
@@ -38,7 +40,8 @@ function create_table_student_hold ($conn) {
     )");
 }
 
-function create_table_hold ($conn) { 
+function create_table_hold($conn)
+{
     $result = $conn->query("CREATE TABLE IF NOT EXISTS Student_Hold(
     holdID INT PRIMARY KEY,
     hold_type varchar(255)
@@ -47,7 +50,8 @@ function create_table_hold ($conn) {
 }
 
 
-function create_student_history ($conn) { 
+function create_student_history($conn)
+{
     $result = $conn->query("CREATE TABLE IF NOT EXISTS Student_History(
     studentID INT,
     semesterID INT,
@@ -64,7 +68,8 @@ function create_student_history ($conn) {
 
 
 
-function create_table_classroom ($conn) { 
+function create_table_classroom($conn)
+{
     $result = $conn->query("CREATE TABLE IF NOT EXISTS Classroom(
     roomID INT,
     number_seats INT,
@@ -72,7 +77,8 @@ function create_table_classroom ($conn) {
     )");
 }
 
-function create_table_student ($conn) { 
+function create_table_student($conn)
+{
     $result = $conn->query("CREATE TABLE IF NOT EXISTS Student(
     studentID INT PRIMARY KEY,
     majorID INT,
@@ -81,7 +87,8 @@ function create_table_student ($conn) {
     )");
 }
 
-function create_table_advisor ($conn) { 
+function create_table_advisor($conn)
+{
     $result = $conn->query("CREATE TABLE IF NOT EXISTS Advisor(
     studentID INT PRIMARY KEY,
     facultyID INT,
@@ -90,8 +97,9 @@ function create_table_advisor ($conn) {
     )");
 }
 
-function create_table_faculty ($conn) {
-     $result = $conn->query("CREATE TABLE IF NOT EXISTS Faculty(
+function create_table_faculty($conn)
+{
+    $result = $conn->query("CREATE TABLE IF NOT EXISTS Faculty(
      facultyID INT PRIMARY KEY,
      office INT,
      specialty varchar(255),
@@ -102,37 +110,109 @@ function create_table_faculty ($conn) {
 
 }
 
-function create_table_admin ($conn) {
-     $result = $conn->query("CREATE TABLE IF NOT EXISTS Admin(
+function create_table_admin($conn)
+{
+    $result = $conn->query("CREATE TABLE IF NOT EXISTS Admin(
      adminID INT PRIMARY KEY,
      security_type varchar(255),
      FOREIGN KEY (adminID) REFERENCES User (userID)
      )");
 }
 
-function create_table_stats_staff ($conn) {
-     $result = $conn->query("CREATE TABLE IF NOT EXISTS Stats_Staff(
+function create_table_stats_staff($conn)
+{
+    $result = $conn->query("CREATE TABLE IF NOT EXISTS Stats_Staff(
      stats_staffID INT PRIMARY KEY,
      status varchar(255),
      FOREIGN KEY (stats_staffID) REFERENCES User (userID)
      )");
 }
 
+function create_table_faculty_history($conn)
+{
+    $result = $conn->query("CREATE TABLE IF NOT EXISTS Faculty_History(
+     facultyID INT,
+     CRN INT,
+     courseID INT,
+     semesterID INT,
+    FOREIGN KEY (facultyID) REFERENCES Faculty (facultyID),
+    FOREIGN KEY (CRN) REFERENCES Course_Section (CRN),
+    FOREIGN KEY (courseID) REFERENCES Course (courseID),
+    FOREIGN KEY (semesterID) REFERENCES Semester (semesterID),
+     )");
+
+}
+
+function create_table_undergraduate($conn)
+{
+    $result = $conn->query("CREATE TABLE IF NOT EXISTS Undergraduate(
+    studentID INT PRIMARY KEY,
+    deptID INT,
+    student_type varchar(255),
+    FOREIGN KEY (studentID) REFERENCES Student (studentID),
+    FOREIGN KEY (deptID) REFERENCES Department (deptID),
+     )");
+
+}
+
+function create_table_graduate($conn)
+{
+    $result = $conn->query("CREATE TABLE IF NOT EXISTS Graduate(
+      studentID INT PRIMARY KEY,
+      deptID INT,
+      student_type varchar(255),
+      program varchar(255),
+      FOREIGN KEY (studentID) REFERENCES Student (studentID),
+        FOREIGN KEY (deptID) REFERENCES Department (deptID),
+
+     )");
+}
+
+function create_table_part_time_graduate($conn)
+{
+    $result = $conn->query("CREATE TABLE IF NOT EXISTS Part_Time_Graduate(
+      studentID INT PRIMARY KEY,
+      deptID INT,
+      credits_earned INT,
+      thesis_year YEAR,
+      FOREIGN KEY (studentID) REFERENCES Graduate (studentID),
+        FOREIGN KEY (deptID) REFERENCES Department (deptID),
+
+     )");
+
+}
+
+function create_table_full_time_undergraduate($conn)
+{
+    $result = $conn->query("CREATE TABLE IF NOT EXISTS Full_Time_Undergraduate(
+      studentID INT PRIMARY KEY,
+      deptID INT,
+      current_year YEAR,
+      max_credits INT,
+      min_credits INT,
+      credits_earned INT,
+      FOREIGN KEY (studentID) REFERENCES Undergraduate (studentID),
+        FOREIGN KEY (deptID) REFERENCES Department (deptID),
+
+     )");
+
+}
 
 
 
 
 
-function connect_database_registration($conn){
+function connect_database_registration($conn)
+{
 
     // Check connection
     if ($conn->connect_error) {
-       die("Connection failed: " . $conn->connect_error);
+        die("Connection failed: " . $conn->connect_error);
     }
     echo "Connected successfully<br>";
 
     if ($conn->query("USE registration")) {
-    
+
     }
     echo "connected to registraion";
 
@@ -140,7 +220,8 @@ function connect_database_registration($conn){
 }
 
 
-function create_all_tables($conn){
+function create_all_tables($conn)
+{
 
     create_table_user($conn);
 
