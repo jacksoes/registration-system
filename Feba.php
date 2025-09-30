@@ -201,7 +201,7 @@ function create_table_course($conn){
 
 
 function connect_database_registration($conn){
-    // Check connection
+//     Check connection
     if ($conn->connect_error) {
        die("Connection failed: " . $conn->connect_error);
     }
