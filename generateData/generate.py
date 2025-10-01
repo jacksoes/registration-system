@@ -1,3 +1,6 @@
+'''
+
+#creating users
 from faker import Faker
 import json
 import random
@@ -68,3 +71,50 @@ with open("users_2103_randomIDs.json", "w") as f:
     json.dump(users, f, indent=4)
 
 print(f"✅ Generated {len(users)} users in 'users_2103_randomIDs.json'")
+'''
+
+#creating log-in data
+
+import json
+import random
+import string
+
+# Load users JSON
+with open("users_2103_randomIDs.json", "r") as f:
+    users = json.load(f)
+
+login_records = []
+email_set = set()  # To track duplicates
+
+def generate_email(first_name, last_name):
+    first_initial = first_name[0].lower()
+    last_part = last_name[:5].lower() if len(last_name) > 5 else last_name.lower()
+    email = f"{first_initial}{last_part}@atlantic.edu"
+    
+    # If duplicate, add random 2-digit number
+    if email in email_set:
+        email = f"{first_initial}{last_part}{random.randint(10,99)}@atlantic.edu"
+    
+    email_set.add(email)
+    return email
+
+def generate_password(length=8):
+    # Random password: letters + digits
+    chars = string.ascii_letters + string.digits
+    return ''.join(random.choice(chars) for _ in range(length))
+
+for u in users:
+    login_records.append({
+        "userID": u["UserID"],
+        "email": generate_email(u["firstName"], u["lastName"]),
+        "user_password": generate_password(),
+        "no_of_tries": random.randint(1, 5),
+        "locked_up": random.randint(0, 1),
+        "userType": u["userType"]
+    })
+
+# Save to JSON
+with open("login_records.json", "w") as f:
+    json.dump(login_records, f, indent=4)
+
+print(f"✅ Created login_records.json with {len(login_records)} login records.")
