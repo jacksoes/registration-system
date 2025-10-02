@@ -1,7 +1,7 @@
 <?php
 $servername = "school-project.cubcw8ayasbz.us-east-1.rds.amazonaws.com";
 $username   = "admin";
-$password   = "";
+$password   = "system_design";
 
 $conn = new mysqli($servername, $username, $password);
 
@@ -14,6 +14,7 @@ if ($conn->query("USE registration")) {
     
 }
 echo "connected to registraion";
+drop_all_tables($conn);
 
 $result = $conn->query("SHOW TABLES");
 

@@ -1,3 +1,5 @@
+
+'''
 import mysql.connector
 import json
 
@@ -15,6 +17,24 @@ def insert_user(user):
     conn = get_connection()
     cursor = conn.cursor()
 
+
+    
+    
+
+    # Run a SELECT query
+    cursor.execute("SELECT userID FROM User LIMIT 5")
+
+    # Fetch results
+    rows = cursor.fetchall()
+
+    for row in rows:
+        print(row)
+
+    # Close connection
+    cursor.close()
+    conn.close()
+
+'''
     sql = """
         INSERT INTO User (
             userID, first_name, middle_name, last_name,
@@ -45,6 +65,8 @@ def insert_user(user):
     conn.close()
     print(f"✅ Inserted user {user['UserID']}")
 
+'''
+
 # Insert multiple users from JSON file
 def insert_users_from_json(json_file):
     with open(json_file, "r") as f:
@@ -60,3 +82,6 @@ def insert_users_from_json(json_file):
 
 if __name__ == "__main__":
     insert_users_from_json("users_2103_randomIDs.json")
+'''
+
+

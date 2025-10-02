@@ -1,0 +1,8002 @@
+[
+    {
+        "studentID": 999828681,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999397841,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999334337,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999114429,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999705363,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999585409,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999048723,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999082302,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999883150,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999060853,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999462111,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999043183,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999854795,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999225197,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999701176,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999201450,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999704192,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999434799,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999034246,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999950135,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999579458,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999921382,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999404856,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999573184,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999724075,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999181631,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999439281,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999985891,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999766829,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999713165,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999302025,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999027843,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999672492,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999861580,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999125075,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999349776,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999437237,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999558044,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999317382,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999920070,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999798725,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999708672,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999781139,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999850839,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999491190,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999263282,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999567562,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999967443,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999199774,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999052110,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999636183,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999124615,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999512874,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999020735,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999704484,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999957740,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999074026,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999509203,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999822328,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999331752,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999310811,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999297972,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999453498,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999641306,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999700519,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999492372,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999385661,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999897110,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999152088,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999534328,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999497426,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999395676,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999985711,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999001151,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999546551,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999286404,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999997763,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999947611,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999588416,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999278855,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999904166,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999857940,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999245158,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999895380,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999457635,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999523565,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999841707,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999173631,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999067819,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999623672,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999721455,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999221376,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999885044,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999390696,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999466938,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999404404,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999670233,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999231859,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999739838,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999596319,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999581819,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999321415,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999941165,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999633003,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999027023,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999767731,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999453279,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999718683,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999747096,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999784619,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999468838,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999369234,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999423388,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999405015,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999947933,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999759037,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999695408,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999038066,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999365960,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999364491,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999327511,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999252116,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999632118,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999281034,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999896858,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999882146,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999837586,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999559437,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999696676,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999821246,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999374495,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999669204,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999469600,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999257840,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999457599,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999069143,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999253106,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999336579,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999993703,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999788051,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999022456,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999140854,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999714427,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999292447,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999303772,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999190763,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999386255,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999982102,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999039339,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999646161,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999512113,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999606296,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999303939,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999448169,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999598294,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999029597,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999337135,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999327263,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999986887,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999476546,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999852466,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999969994,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999152373,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999995262,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999636231,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999784373,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999464067,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999577047,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999139141,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999487540,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999593516,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999886779,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999815664,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999505781,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999545642,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999369137,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999925946,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999349728,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999873069,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999767727,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999252437,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999475342,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999336397,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999453343,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999182500,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999505052,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999632624,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999986563,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999909636,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999584900,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999457211,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999466615,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999164014,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999105215,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999361164,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999713544,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999253083,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999307827,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999634977,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999745172,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999043734,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999457786,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999833512,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999434582,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999338888,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999321663,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999794811,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999983819,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999748025,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999314547,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999575619,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999302506,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999136333,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999967442,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999307708,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999817988,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999865041,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999197811,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999826902,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999089541,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999405163,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999101842,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999907632,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999221637,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999690151,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999149752,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999521955,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999254844,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999150113,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999577842,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999053559,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999530690,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999889747,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999867999,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999918433,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999151035,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999725804,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999682840,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999112484,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999696314,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999673095,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999915894,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999260322,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999131769,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999373087,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999322486,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999207051,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999007733,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999647674,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999308492,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999881204,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999609426,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999337993,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999206179,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999628609,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999052621,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999707243,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999492591,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999299679,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999349485,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999483373,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999809715,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999155055,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999216718,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999399380,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999125363,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999659942,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999659312,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999948023,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999197085,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999689687,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999029132,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999144433,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999256787,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999942873,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999491443,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999261418,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999703515,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999355988,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999360657,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999891524,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999345192,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999978821,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999022683,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999254671,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999851475,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999401355,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999719204,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999047072,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999032665,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999671087,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999255492,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999231798,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999843551,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999236225,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999288463,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999163149,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999508896,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999341862,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999217157,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999720211,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999969111,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999496684,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999395720,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999451391,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999412140,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999706402,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999223161,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999247707,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999850267,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999530565,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999844799,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999406029,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999046707,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999340993,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999238115,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999267816,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999461916,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999402065,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999152457,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999563388,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999149031,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999469084,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999714720,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999402962,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999062202,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999149650,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999154781,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999200556,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999112548,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999751544,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999938855,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999928401,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999242561,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999138269,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999689713,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999708398,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999521159,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999385355,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999544492,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999072318,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999541009,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999225004,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999969887,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999914106,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999450937,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999000597,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999708886,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999226292,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999388017,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999412597,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999351397,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999738121,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999168868,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999834920,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999132856,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999509376,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999711543,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999028036,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999774545,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999643847,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999857264,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999591345,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999365835,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999342389,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999236432,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999842775,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999872820,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999307116,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999852978,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999284536,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999922745,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999743737,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999742687,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999080348,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999192805,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999585797,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999576793,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999468188,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999618306,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999524356,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999975652,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999013823,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999429467,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999535156,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999211975,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999678455,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999326225,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999877579,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999681157,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999957367,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999845610,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999132229,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999163242,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999516145,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999858519,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999616774,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999422099,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999341219,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999140852,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999003637,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999347303,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999819870,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999029392,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999969096,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999648781,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999333209,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999613205,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999879100,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999232436,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999572313,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999128064,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999243646,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999341891,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999942316,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999874323,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999412836,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999843481,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999912276,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999106875,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999680992,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999569030,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999492922,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999474945,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999240248,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999387681,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999194128,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999761995,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999543503,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999980499,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999429620,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999127678,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999472188,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999311165,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999794644,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999256862,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999430553,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999256933,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999888428,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999384511,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999489678,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999056159,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999079655,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999749658,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999119284,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999200400,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999009233,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999039895,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999437780,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999802142,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999050387,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999428212,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999357810,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999133016,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999305759,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999649922,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999558095,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999790499,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999808177,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999587010,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999163523,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999998049,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999036814,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999956146,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999503616,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999575409,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999411803,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999800697,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999432134,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999814385,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999965382,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999077522,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999161265,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999280150,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999487933,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999142965,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999997552,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999841985,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999952832,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999611192,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999007909,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999911503,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999663244,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999010145,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999365187,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999463174,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999493662,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999276106,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999055495,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999639904,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999724236,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999931753,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999108676,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999491810,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999822522,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999001187,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999737795,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999520985,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999484337,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999633110,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999600623,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999242925,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999695459,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999360315,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999910730,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999597619,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999203198,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999264568,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999484443,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999780902,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999015633,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999323815,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999515592,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999403819,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999296947,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999629753,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999016671,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999210335,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999885272,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999147380,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999284916,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999288654,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999793724,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999835342,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999558403,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999574461,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999266899,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999294859,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999857868,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999225590,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999952548,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999327592,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999494438,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999019159,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999287704,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999695125,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999710433,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999608500,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999141571,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999853522,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999128887,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999442370,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999428521,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999408303,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999049928,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999142019,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999653503,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999925721,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999743941,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999484350,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999554995,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999812130,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999795777,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999879335,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999624686,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999338712,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999269988,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999412195,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999233519,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999516565,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999616164,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999559884,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999721036,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999328904,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999517905,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999488415,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999734024,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999162510,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999885121,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999269450,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999716433,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999023264,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999543026,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999193947,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999213509,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999345924,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999230072,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999897478,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999715315,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999732281,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999342714,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999076511,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999050469,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999224090,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999884470,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999945860,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999309733,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999640134,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999068791,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999392283,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999066273,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999772262,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999374398,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999682556,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999822264,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999897302,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999002921,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999449568,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999618465,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999288793,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999205420,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999349298,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999292736,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999190287,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999534417,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999863775,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999128773,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999841590,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999012612,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999364039,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999518174,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999739604,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999786253,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999043609,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999803000,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999649650,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999904662,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999611778,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999561586,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999220812,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999882956,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999653669,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999927114,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999829617,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999130979,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999806377,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999592911,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999883385,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999051132,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999457031,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999993005,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999451244,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999298240,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999865073,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999044086,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999719058,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999234313,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999826029,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999639737,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999798302,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999848239,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999759065,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999642020,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999732936,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999959341,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999476165,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999756808,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999313689,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999512108,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999737252,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999948679,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999941921,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999501496,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999514000,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999511354,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999371264,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999340126,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999950437,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999562937,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999553133,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999141207,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999864013,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999991878,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999485109,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999570192,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999857375,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999216988,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999889237,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999430597,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999495366,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999273842,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999253387,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999991441,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999860823,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999228791,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999185903,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999738636,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999785178,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999717380,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999614619,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999863191,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999264376,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999406503,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999478838,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999457201,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999682725,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999423069,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999370708,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999628976,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999970695,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999387285,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999785803,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999134836,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999489264,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999384860,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999820127,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999798954,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999640785,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999890625,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999383164,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999725554,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999905416,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999623439,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999838683,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999477415,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999640135,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999863259,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999022522,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999311636,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999575762,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999533208,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999618826,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999593299,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999196965,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999846910,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999089335,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999347147,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999232710,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999594895,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999028669,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999106877,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999458999,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999902275,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999610629,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999892223,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999257949,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999904754,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999250502,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999468019,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999417959,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999657623,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999014252,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999977508,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999526937,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999046094,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999730831,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999630888,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999946094,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999193988,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999798788,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999580236,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999539661,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999648812,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999830800,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999658392,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999602664,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999284788,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999655531,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999323769,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999580467,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999271780,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999007473,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999316785,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999211804,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999331997,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999912415,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999757063,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999747234,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999715887,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999268447,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999117107,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999293451,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999479092,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999026140,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999531322,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999457026,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999182714,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999818358,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999551654,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999710901,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999932682,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999588303,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999445155,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999186260,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999751446,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999263795,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999273279,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999915294,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999977708,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999555835,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999629093,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999013628,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999631901,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999408997,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999437788,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999470837,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999133691,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999579135,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999742753,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999857721,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999692928,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999358055,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999644204,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999706079,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999962510,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999124106,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999938976,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999506041,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999300900,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999206786,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999787877,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999665272,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999601758,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999344938,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999436604,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999350774,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999964239,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999794582,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999069185,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999337652,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999630638,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999705602,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999533977,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999410354,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999652779,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999517508,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999770835,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999334933,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999632806,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999435178,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999646193,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999869538,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999015557,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999987787,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999363399,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999436989,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999422860,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999455492,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999088532,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999777367,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999256402,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999736353,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999046510,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999660556,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999242693,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999969011,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999620716,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999585060,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999824718,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999235600,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999447527,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999130023,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999436282,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999899271,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999552298,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999897390,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999817897,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999174931,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999281348,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999601314,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999004658,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999588318,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999154102,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999176271,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999400312,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999198008,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999290315,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999119133,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999298165,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999139715,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999243180,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999868012,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999828682,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999438210,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999852411,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999813363,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999903151,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999584400,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999678210,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999661847,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999181497,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999300953,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999885654,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999392991,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999643090,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999184926,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999296046,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999916887,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999279821,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999949230,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999824983,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999308963,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999135819,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999713188,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999531074,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999131643,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999131875,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999693381,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999641676,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999929697,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999493279,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999904805,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999702505,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999254211,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999036566,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999486811,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999585543,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999699700,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999863458,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999949832,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999633772,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999029899,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999007136,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999532153,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999630798,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999704599,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999536237,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999583874,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999025684,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999756115,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999362837,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999738638,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999803665,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999444458,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999608076,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999089945,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999567441,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999809536,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999996969,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999325885,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999607515,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999446988,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999342576,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999909989,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999459775,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999990479,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999969515,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999192591,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999530561,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999060165,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999800503,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999519056,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999657434,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999563025,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999641210,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999116388,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999849127,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999391236,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999338375,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999337511,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999376215,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999575248,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999255672,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999905389,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999224408,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999868098,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999881840,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999645034,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999577532,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999813167,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999965624,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999023518,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999026423,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999616737,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999615523,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999977848,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999286573,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999544967,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999497316,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999891386,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999549201,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999923545,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999583468,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999387977,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999696380,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999360191,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999286791,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999172977,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999403489,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999391005,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999106896,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999368921,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999391630,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999280345,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999859780,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999505007,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999245953,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999343890,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999541141,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999519165,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999910458,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999055580,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999307462,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999645285,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999204552,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999398088,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999905896,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999525439,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999207176,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999646832,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999697162,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999722375,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999276810,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999336222,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999834182,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999506389,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999762768,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999481253,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999348215,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999702361,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999592739,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999168632,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999149836,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999236695,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999551805,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999018942,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999802894,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999572958,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999850999,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999774143,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999431774,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999922021,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999476751,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999130243,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999940031,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999026057,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999575738,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999012446,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999470252,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999303882,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999364397,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999235515,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999570521,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999052700,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999937334,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999101687,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999167450,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999695129,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999137003,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999861433,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999994206,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999548278,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999931296,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999115712,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999006878,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999995937,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999163943,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999617728,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999821216,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999414756,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999472925,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999794162,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999980507,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999483642,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999315907,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999855518,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999590658,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999945738,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999114609,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999053519,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999664589,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999725610,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999397182,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999423198,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999001789,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999600067,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999179431,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999316732,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999913365,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999725912,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999645579,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999659356,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999226261,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999956196,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999537859,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999840085,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999991327,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999969223,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999510700,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999932397,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999932415,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999158974,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999384422,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999357049,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999450091,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999141034,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999142028,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999550941,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999027152,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999666237,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999158654,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999055378,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999610400,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999547018,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999989473,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999764645,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999351645,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999034686,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999997526,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999693120,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999033642,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999799278,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999652096,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999949004,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999728500,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999997932,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999701572,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999383650,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999647676,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999350686,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999963033,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999451478,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999630675,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999093375,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999864045,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999286231,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999198995,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999316435,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999157793,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999441010,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999048952,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999328303,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999914839,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999447602,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999340978,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999377046,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999562395,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999484920,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999168440,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999343031,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999409538,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999869615,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999630780,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999833419,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999070927,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999963375,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999877531,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999564373,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999853210,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999547794,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999143082,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999440238,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999023531,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999586000,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999398506,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999973497,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999672865,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999853750,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999471118,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999136126,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999704152,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999405563,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999197239,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999486643,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999630632,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999166770,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999411591,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999100714,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999896626,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999955331,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999482194,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999528770,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999722365,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999135994,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999345402,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999346644,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999764844,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999261229,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999249167,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999679829,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999009315,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999047767,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999257725,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999349395,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999217831,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999316051,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999880435,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999504959,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999909090,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999075729,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999763576,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999171540,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999451628,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999390491,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999867192,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999047948,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999467145,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999781305,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999012894,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999454399,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999809011,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999520650,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999579258,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999215681,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999392062,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999531832,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999376279,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999228684,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999111720,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999516814,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999553160,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999333167,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999413658,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999992005,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999196706,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999566017,
+        "student_Year": "Junior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999626095,
+        "student_Year": "Sophomore",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999371770,
+        "student_Year": "Senior",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999204268,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999270425,
+        "student_Year": "Freshmen",
+        "student_type": "Undergraduate"
+    },
+    {
+        "studentID": 999164430,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999213946,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999393780,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999617726,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999640363,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999860490,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999747006,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999286915,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999157916,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999513347,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999882165,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999357703,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999288247,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999961802,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999744994,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999548778,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999335641,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999450898,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999256408,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999876418,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999768025,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999234298,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999260132,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999405569,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999599108,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999478607,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999496357,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999607190,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999932946,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999852127,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999428947,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999358971,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999957161,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999944258,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999733912,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999528727,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999663714,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999751631,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999078620,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999807620,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999297799,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999693262,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999297339,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999604890,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999099098,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999501642,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999971062,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999697093,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999323398,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999718482,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999931048,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999452409,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999935318,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999758397,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999662838,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999335267,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999466918,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999069537,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999259923,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999910445,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999195739,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999059789,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999656836,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999318678,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999483506,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999386651,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999334768,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999685711,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999925212,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999659899,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999805214,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999790135,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999815582,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999970983,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999704608,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999233822,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999386438,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999451556,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999151534,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999368031,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999825651,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999581320,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999212006,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999017995,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999691862,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999663050,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999619185,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999429969,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999199020,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999749608,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999941859,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999302661,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999326059,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999884977,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999599522,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999325884,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999664141,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999074879,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999706122,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999655912,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999233156,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999648679,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999512321,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999642235,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999699041,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999405519,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999143681,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999070155,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999208944,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999245984,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999371420,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999729618,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999857693,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999186014,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999963689,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999002158,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999347047,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999242098,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999926248,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999486431,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999790463,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999732160,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999919183,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999511716,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999460474,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999248327,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999984699,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999965902,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999027125,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999636970,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999800145,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999606516,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999217712,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999955813,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999368442,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999450153,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999181877,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999682022,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999561869,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999699576,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999850131,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999831509,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999457345,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999244499,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999858146,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999081270,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999921981,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999348325,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999703937,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999842057,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999108501,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999163141,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999432095,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999927458,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999327836,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999970119,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999255534,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999131968,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999932329,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999391868,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999469694,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999709711,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999753782,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999237031,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999540419,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999937342,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999754301,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999638516,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999614215,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999269316,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999398910,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999885435,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999671776,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999281798,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999390575,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999755328,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999020355,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999597111,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999239651,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999709665,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999342831,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999159809,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999105850,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999490153,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999974061,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999969331,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999939607,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999442122,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999043751,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999772350,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999737846,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999661716,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999287000,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999348225,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999090848,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999704771,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999226176,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999150237,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999371286,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999469567,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999655254,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999341334,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999965952,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999540096,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999509529,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999407624,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999835847,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999713864,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999824475,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999996426,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999941721,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999367077,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999531018,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999238862,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999288064,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999588126,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999527771,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999357597,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999512240,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999626899,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999937204,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999101610,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999264529,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999743929,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999836068,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999216573,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999334591,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999613456,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999953752,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999425664,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999621379,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999502799,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999128566,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999729090,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999103854,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999709179,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999474772,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999837289,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999644103,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999905763,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999196647,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999345006,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999674945,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999387077,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999873745,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999842995,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999166099,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999120423,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999037424,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999363995,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999417642,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999654486,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999505369,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999750858,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999045324,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999240408,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999656485,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999151133,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999942984,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999677538,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999506392,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999459757,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999452887,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999121038,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999022825,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999567822,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999581188,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999284993,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999635381,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999676576,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999225825,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999621905,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999070724,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999812902,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999310816,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999333537,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999222255,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999493784,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999203762,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999006712,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999133741,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999115381,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999835880,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999911382,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999582396,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999668424,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999446103,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999835071,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999711851,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999633394,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999543910,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999284967,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999184333,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999322071,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999439221,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999758884,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999815877,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999909200,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999255012,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999092769,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999059720,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999651261,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999663649,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999533945,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999845197,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999848437,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999908854,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999485353,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999476356,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999322511,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999153306,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999616689,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999542267,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999685526,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999134275,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999484772,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999183888,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999876170,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999364919,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999718806,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999707493,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999458923,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999857220,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999986169,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999583038,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999690030,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999371885,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999682359,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999210208,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999021982,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999002317,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999197373,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999741958,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999969985,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999757877,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999744656,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999827436,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999385166,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999181124,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999375506,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999041206,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999074462,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999278788,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999849629,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999736730,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999133028,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999685564,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999330317,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999735687,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999363829,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999361384,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999838622,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999221378,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999674189,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999565287,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999776080,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999938955,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999692991,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999568999,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999296923,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999498442,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999321943,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999988380,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999097450,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999390036,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999295976,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999730387,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999751416,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999548517,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999378692,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999357809,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999960561,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999334618,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999403036,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999316180,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999694645,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999435652,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999590967,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999264915,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999904304,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999491724,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999370365,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999129803,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999382087,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999303179,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999391564,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999566659,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999187879,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999210129,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999132618,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999668419,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999778547,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999152304,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999023242,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999588200,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999573456,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999088384,
+        "student_Year": "Second",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999211189,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999269551,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    },
+    {
+        "studentID": 999850650,
+        "student_Year": "First",
+        "student_type": "Graduate"
+    }
+]
